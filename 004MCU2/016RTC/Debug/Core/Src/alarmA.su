@@ -1,0 +1,12 @@
+alarmA.c:32:5:main	8	static
+alarmA.c:60:6:HAL_GPIO_EXTI_Callback	16	static
+alarmA.c:72:6:HAL_RTC_AlarmAEventCallback	64	static
+alarmA.c:89:6:RTC_AlarmConfig	48	static
+alarmA.c:112:6:printmsg	96	static
+alarmA.c:125:7:getDayofweek	56	static
+alarmA.c:131:6:RTC_CalendarConfig	32	static
+alarmA.c:152:6:Error_handler	4	static
+alarmA.c:156:6:RTC_Init	8	static
+alarmA.c:170:6:Button_Init	32	static
+alarmA.c:186:6:UART2_Init	8	static
+alarmA.c:203:6:SystemClock_Config_HSE	88	static

@@ -1,0 +1,7 @@
+main.c:41:5:main	8	static
+main.c:73:6:HAL_TIM_PeriodElapsedCallback	32	static
+main.c:92:6:TIMER2_Init	8	static
+main.c:105:6:UART2_Init	8	static
+main.c:122:6:GPIO_AnalogConfig	24	static
+main.c:133:6:SystemClock_Config_HSE	80	static
+main.c:193:6:Error_handler	4	static

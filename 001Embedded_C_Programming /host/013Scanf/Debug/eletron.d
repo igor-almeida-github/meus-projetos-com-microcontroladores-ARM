@@ -1,0 +1,1 @@
+eletron.o: ../eletron.c

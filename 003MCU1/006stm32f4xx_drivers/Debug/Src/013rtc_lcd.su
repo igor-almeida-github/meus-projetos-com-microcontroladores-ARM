@@ -1,0 +1,5 @@
+013rtc_lcd.c:19:14:time_to_string	24	static
+013rtc_lcd.c:26:14:date_to_string	24	static
+013rtc_lcd.c:33:6:init_systick_timer	32	static
+013rtc_lcd.c:56:5:main	16	static
+013rtc_lcd.c:88:6:SysTick_Handler	24	static
